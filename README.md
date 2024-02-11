@@ -8,7 +8,7 @@
 _Enjoy :smiley:_
 
 ### Issues in Unit Test
-* I moved the Calculator logic to a string library and added the references. But on calling
+* I moved the Calculator logic to a class library and added the references. But on calling
  the libray in the Calculator controller I am getting:
 
  The type or namespace name 'Add' does not exist in the namespace 'Calculator' (are you missing an assembly reference?)CS0234
