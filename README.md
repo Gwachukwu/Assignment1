@@ -12,6 +12,6 @@ _Enjoy :smiley:_
  the libray in the Calculator controller I am getting:
 
  The type or namespace name 'Add' does not exist in the namespace 'Calculator' (are you missing an assembly reference?)CS0234
-# Fix
+#### Fix
 * I was giving the libary class same name as the namespace. I had to change my calculator
  namespace to CalculatorUtility
